@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site 3</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site 3</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 23:55:52 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 3</title>
+      <link>http://localhost:1313/posts/my-3/</link>
+      <pubDate>Sat, 08 Nov 2025 23:55:52 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-3/</guid>
+      <description>&lt;h1 id=&#34;森林海水和蓝天&#34;&gt;森林海水和蓝天&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEF3-BpDumJaxEOasS6HYc1_tY9tRMhXQACci8AAqr0eVSPfAxiAW43ozYE.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/my-2/</link>
+      <pubDate>Sat, 08 Nov 2025 22:55:23 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEF8MVpDzkyK2UPlt1fQowTeG3QNv3eWQAC-EAAAqr0eVRryFKNY-t34TYE.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 08 Nov 2025 22:38:22 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;大家好&#34;&gt;大家好&lt;/h1&gt;&#xA;&lt;p&gt;送&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
