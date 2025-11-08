@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wafwa01.github.io/</loc>
+    <loc>https://wafwa01.github.io/hugo-learn-pages/</loc>
     <lastmod>2025-11-08T23:55:52+08:00</lastmod>
   </url><url>
-    <loc>https://wafwa01.github.io/posts/</loc>
+    <loc>https://wafwa01.github.io/hugo-learn-pages/posts/</loc>
     <lastmod>2025-11-08T23:55:52+08:00</lastmod>
   </url><url>
-    <loc>https://wafwa01.github.io/categories/</loc>
+    <loc>https://wafwa01.github.io/hugo-learn-pages/categories/</loc>
   </url><url>
-    <loc>https://wafwa01.github.io/tags/</loc>
+    <loc>https://wafwa01.github.io/hugo-learn-pages/tags/</loc>
   </url>
 </urlset>
